@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "salary": 75000.0,
+    "designation": "Senior Developer"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "salary": 65000.0,
+    "designation": "Junior Developer"
+  },
+  {
+    "id": 3,
+    "name": "Michael Brown",
+    "salary": 85000.0,
+    "designation": "Tech Lead"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "salary": 70000.0,
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 5,
+    "name": "James Wilson",
+    "salary": 80000.0,
+    "designation": "Senior Engineer"
+  },
+  {
+    "id": 6,
+    "name": "Lisa Anderson",
+    "salary": 60000.0,
+    "designation": "QA Engineer"
+  },
+  {
+    "id": 7,
+    "name": "Robert Taylor",
+    "salary": 72000.0,
+    "designation": "DevOps Engineer"
+  },
+  {
+    "id": 8,
+    "name": "Jennifer Martinez",
+    "salary": 68000.0,
+    "designation": "Full Stack Developer"
+  },
+  {
+    "id": 9,
+    "name": "David Garcia",
+    "salary": 78000.0,
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 10,
+    "name": "Mary Rodriguez",
+    "salary": 62000.0,
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 11,
+    "name": "Charles Lee",
+    "salary": 82000.0,
+    "designation": "Architect"
+  },
+  {
+    "id": 12,
+    "name": "Patricia White",
+    "salary": 64000.0,
+    "designation": "Database Administrator"
+  },
+  {
+    "id": 13,
+    "name": "Daniel Harris",
+    "salary": 76000.0,
+    "designation": "Security Engineer"
+  },
+  {
+    "id": 14,
+    "name": "Nancy Clark",
+    "salary": 69000.0,
+    "designation": "Data Analyst"
+  },
+  {
+    "id": 15,
+    "name": "Mark Lewis",
+    "salary": 71000.0,
+    "designation": "System Administrator"
+  },
+  {
+    "id": 16,
+    "name": "Karen Walker",
+    "salary": 66000.0,
+    "designation": "Business Analyst"
+  },
+  {
+    "id": 17,
+    "name": "Paul Hall",
+    "salary": 79000.0,
+    "designation": "Solutions Architect"
+  },
+  {
+    "id": 18,
+    "name": "Sandra Young",
+    "salary": 63000.0,
+    "designation": "Technical Writer"
+  },
+  {
+    "id": 19,
+    "name": "Steven King",
+    "salary": 81000.0,
+    "designation": "Project Manager"
+  },
+  {
+    "id": 20,
+    "name": "Margaret Wright",
+    "salary": 67000.0,
+    "designation": "Quality Lead"
+  }
+]
